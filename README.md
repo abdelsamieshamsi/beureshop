@@ -1,2 +1,2 @@
 # beureshop
-Super Cool Shoe Store ! Designed With Figma . 
+Super Cool Shoes Store ! Designed With Figma . 
